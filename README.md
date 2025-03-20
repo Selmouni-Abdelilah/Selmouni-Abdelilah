@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a Cloud Engineer student 🌩️
 
 - 🔭 I’m currently learning something new every day!
-- 🌱 My main focus areas: Infrastructure as Code, Azure, GCP, DevOps, Automation.
+- 🌱 My main focus areas: Infrastructure as Code, Azure, AWS, DevOps, Automation.
 
 ## Technologies & Tools
 
